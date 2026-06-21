@@ -49,3 +49,7 @@ The Smart Reminder System is designed to help users stay organized by managing r
 
 ![Smart Remainder System](file_00000000e2b4720bafaa08a5b6629797.png)
 
+# ➕ Add Reminder Page
+
+![Add Reminder](file_000000001850720bb804d07d9985fa26.png)
+
