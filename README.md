@@ -29,7 +29,9 @@ The Smart Reminder System is designed to help users stay organized by managing r
 •Step 4: System stores the reminder.
 •Step 5: Notification is displayed when the reminder time arrives.
 
+
 🛠️ TECHNOLOGIES USED
+
 
 •🐍 Python
 •🪟 Tkinter (GUI)
