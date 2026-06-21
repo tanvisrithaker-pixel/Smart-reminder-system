@@ -1,7 +1,9 @@
 📋 Smart Reminder System
+
 The Smart Reminder System is a Python-based application that helps users manage their daily tasks and schedules efficiently. It allows users to set reminders for important events and receive notifications at the specified time.
 
 📖 OVERVIEW
+
 The Smart Reminder System is designed to help users stay organized by managing reminders for tasks, meetings, assignments, and personal activities. The system stores reminder information and alerts users when the scheduled time arrives.
 
 🎯 OBJECTIVES
