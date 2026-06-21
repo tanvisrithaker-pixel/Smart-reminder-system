@@ -50,7 +50,7 @@ Efficient reminder tracking
 
 ## Add Reminder Page
 
-![Add Reminder](screenshots/add_reminder.png)
+![Add Reminder](Screenshot_2026-06-21-13-57-01-48_96b26121e54523)
 
 ## Notification Alert
 
