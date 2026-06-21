@@ -46,7 +46,7 @@ Efficient reminder tracking
 🖥️ SYSTEM OVERVIEW AND DESIGN
 ## Main Window
 
-![Smart Remainder System](img1.png)
+![Smart Remainder System](file_00000000e2b4720bafaa08a5b6629797.png)
 
 ## Add Reminder Page
 
