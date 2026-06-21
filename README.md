@@ -53,3 +53,41 @@ The Smart Reminder System is designed to help users stay organized by managing r
 
 ![Add Reminder](file_000000001850720bb804d07d9985fa26.png)
 
+▶️ EXECUTION
+
+python main.py
+
+💻 SAMPLE OUTPUT
+
+===== SMART REMINDER SYSTEM =====
+
+1. Add Reminder
+2. View Reminders
+3. Exit
+
+Enter Choice: 1
+
+Enter Reminder:
+Project Submission
+
+Enter Time:
+06:00 PM
+
+Reminder Added Successfully!
+
+🚀 FUTURE ENHANCEMENTS
+
+•📱 Mobile application support
+•☁️ Cloud synchronization
+•📧 Email reminders
+•📲 SMS notifications
+•🌐 Web-based version
+•🤖 AI-based smart scheduling
+
+🏁 CONCLUSION
+The Smart Reminder System is a useful application that helps users manage tasks and schedules effectively. It provides timely notifications, improves productivity, and ensures that important activities are never forgotten.
+
+👨‍💻 DEVELOPED BY
+Name:Tanvisri Thaker
+Branch:AIML-A section
+Roll number:160625748059
