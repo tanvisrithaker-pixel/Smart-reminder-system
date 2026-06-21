@@ -48,10 +48,3 @@ Efficient reminder tracking
 
 ![Smart Remainder System](file_00000000e2b4720bafaa08a5b6629797.png)
 
-## Add Reminder Page
-
-![Add Reminder](Screenshot_2026-06-21-13-57-01-48_96b26121e54523)
-
-## Notification Alert
-
-![Notification Alert](screenshots/notification_alert.png)
