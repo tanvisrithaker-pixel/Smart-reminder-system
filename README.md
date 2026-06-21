@@ -44,3 +44,14 @@ Provides timely alerts
 Efficient reminder tracking
 
 🖥️ SYSTEM OVERVIEW AND DESIGN
+## Main Window
+
+![Main Window](screenshots/main_window.png)
+
+## Add Reminder Page
+
+![Add Reminder](screenshots/add_reminder.png)
+
+## Notification Alert
+
+![Notification Alert](screenshots/notification_alert.png)
