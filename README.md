@@ -9,26 +9,41 @@ The Smart Reminder System is designed to help users stay organized by managing r
 🎯 OBJECTIVES
 
 •Reduce the chances of missing important tasks.
+
 •Improve time management.
+
 •Provide timely notifications.
+
 •Organize daily activities efficiently.
+
 •Increase productivity.
 
 ✨ FEATURES
 
 •🔔 Create reminders
+
 •⏰ Set date and time for reminders
+
 •📝 Edit reminders
+
 •❌ Delete reminders
+
 •📋 View all reminders
+
 •🔔 Notification alerts
+
 •💻 User-friendly interface
 
 ⚙️ HOW IT WORKS (METHODOLOGY)
+
 •Step 1: User opens the Smart Reminder System.
+
 •Step 2: User enters reminder details.
+
 •Step 3: User sets the reminder date and time.
+
 •Step 4: System stores the reminder.
+
 •Step 5: Notification is displayed when the reminder time arrives.
 
 
@@ -36,19 +51,29 @@ The Smart Reminder System is designed to help users stay organized by managing r
 
 
 •🐍 Python
+
 •🪟 Tkinter (GUI)
+
 •📅 Datetime Module
+
 •⏰ Time Module
+
 •🔔 Plyer Notification Library
 
 ✅ ADVANTAGES
 
 •Saves time.
+
 •Improves task management.
+
 •Easy to use.
+
 •Reduces forgetfulness.
+
 •Enhances productivity.
+
 •Provides timely alerts.
+
 •Efficient reminder tracking.
 
 🖥️ SYSTEM OVERVIEW AND DESIGN
@@ -85,10 +110,15 @@ Reminder Added Successfully!
 🚀 FUTURE ENHANCEMENTS
 
 •📱 Mobile application support
+
 •☁️ Cloud synchronization
+
 •📧 Email reminders
+
 •📲 SMS notifications
+
 •🌐 Web-based version
+
 •🤖 AI-based smart scheduling
 
 
@@ -100,5 +130,7 @@ The Smart Reminder System is a useful application that helps users manage tasks 
 👨‍💻 DEVELOPED BY
 
 Name:Tanvisri Thaker
+
 Branch:AIML-A section
+
 Roll number:160625748059
